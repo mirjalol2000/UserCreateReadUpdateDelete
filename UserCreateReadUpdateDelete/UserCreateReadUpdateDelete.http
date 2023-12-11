@@ -1,0 +1,6 @@
+@UserCreateReadUpdateDelete_HostAddress = http://localhost:5073
+
+GET {{UserCreateReadUpdateDelete_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
